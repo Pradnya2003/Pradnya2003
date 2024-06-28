@@ -4,10 +4,10 @@ I am a B.Tech Artificial Intelligence and Data Science student currently in my 3
 
 ## 🛠 Skills
 
-- ** Artificial Intelligence ** 
-- ** Machine Learning ** 
-- ** Deep Learning ** 
-- ** UI Designing**
+- Artificial Intelligence 
+- Machine Learning 
+- Deep Learning 
+- UI Designing
 
 ## 🏆 Projects
 
