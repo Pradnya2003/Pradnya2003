@@ -11,7 +11,7 @@ I am a B.Tech Artificial Intelligence and Data Science student currently in my 3
 
 ## 🏆 Projects
 
-### 1. Object Deduction
+### 1. Object Detection
 Detected objects in images and videos using the YOLO. This project involved:
 - using the YOLO (You Only Look Once) algorithm with Python
 - libraries such as OpenCV for image processing
