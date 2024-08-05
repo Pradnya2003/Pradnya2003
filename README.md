@@ -38,7 +38,7 @@ I am eagerly waiting to work in an IT environment where I can:
       <img src="https://github-readme-stats.vercel.app/api?username=pradnya2003&show_icons=true&theme=radical" alt="pradnya2003"s GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriMathi-2705&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradnya2003&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
